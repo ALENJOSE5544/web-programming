@@ -1,5 +1,3 @@
-
-
 <html>
 <head>
 <title>get data from another page</title>
